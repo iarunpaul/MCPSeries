@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ArunPaul(Polly)\\source\\repos\\AI\\MCP\\AgentRunner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{215FE4AD-272F-4E68-A459-D1EA679E2CFF}|AgentRunner.csproj|c:\\users\\arunpaul(polly)\\source\\repos\\ai\\mcp\\agentrunner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215FE4AD-272F-4E68-A459-D1EA679E2CFF}|AgentRunner.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215FE4AD-272F-4E68-A459-D1EA679E2CFF}|AgentRunner.csproj|c:\\users\\arunpaul(polly)\\source\\repos\\ai\\mcp\\agentrunner\\serviceinvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215FE4AD-272F-4E68-A459-D1EA679E2CFF}|AgentRunner.csproj|solutionrelative:serviceinvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215FE4AD-272F-4E68-A459-D1EA679E2CFF}|AgentRunner.csproj|c:\\users\\arunpaul(polly)\\source\\repos\\ai\\mcp\\agentrunner\\reasoner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215FE4AD-272F-4E68-A459-D1EA679E2CFF}|AgentRunner.csproj|solutionrelative:reasoner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215FE4AD-272F-4E68-A459-D1EA679E2CFF}|AgentRunner.csproj|c:\\users\\arunpaul(polly)\\source\\repos\\ai\\mcp\\agentrunner\\tooling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215FE4AD-272F-4E68-A459-D1EA679E2CFF}|AgentRunner.csproj|solutionrelative:tooling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215FE4AD-272F-4E68-A459-D1EA679E2CFF}|AgentRunner.csproj|c:\\users\\arunpaul(polly)\\source\\repos\\ai\\mcp\\agentrunner\\agentrunner.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{215FE4AD-272F-4E68-A459-D1EA679E2CFF}|AgentRunner.csproj|solutionrelative:agentrunner.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215FE4AD-272F-4E68-A459-D1EA679E2CFF}|AgentRunner.csproj|c:\\users\\arunpaul(polly)\\source\\repos\\ai\\mcp\\agentrunner\\guardrails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215FE4AD-272F-4E68-A459-D1EA679E2CFF}|AgentRunner.csproj|solutionrelative:guardrails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.205\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceInvoker.cs",
+              "DocumentMoniker": "C:\\Users\\ArunPaul(Polly)\\source\\repos\\AI\\MCP\\AgentRunner\\ServiceInvoker.cs",
+              "RelativeDocumentMoniker": "ServiceInvoker.cs",
+              "ToolTip": "C:\\Users\\ArunPaul(Polly)\\source\\repos\\AI\\MCP\\AgentRunner\\ServiceInvoker.cs",
+              "RelativeToolTip": "ServiceInvoker.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T21:52:15.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Guardrails.cs",
+              "DocumentMoniker": "C:\\Users\\ArunPaul(Polly)\\source\\repos\\AI\\MCP\\AgentRunner\\Guardrails.cs",
+              "RelativeDocumentMoniker": "Guardrails.cs",
+              "ToolTip": "C:\\Users\\ArunPaul(Polly)\\source\\repos\\AI\\MCP\\AgentRunner\\Guardrails.cs",
+              "RelativeToolTip": "Guardrails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T21:51:25.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reasoner.cs",
+              "DocumentMoniker": "C:\\Users\\ArunPaul(Polly)\\source\\repos\\AI\\MCP\\AgentRunner\\Reasoner.cs",
+              "RelativeDocumentMoniker": "Reasoner.cs",
+              "ToolTip": "C:\\Users\\ArunPaul(Polly)\\source\\repos\\AI\\MCP\\AgentRunner\\Reasoner.cs",
+              "RelativeToolTip": "Reasoner.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T21:50:16.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tooling.cs",
+              "DocumentMoniker": "C:\\Users\\ArunPaul(Polly)\\source\\repos\\AI\\MCP\\AgentRunner\\Tooling.cs",
+              "RelativeDocumentMoniker": "Tooling.cs",
+              "ToolTip": "C:\\Users\\ArunPaul(Polly)\\source\\repos\\AI\\MCP\\AgentRunner\\Tooling.cs",
+              "RelativeToolTip": "Tooling.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wBIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T21:48:13.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ArunPaul(Polly)\\source\\repos\\AI\\MCP\\AgentRunner\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ArunPaul(Polly)\\source\\repos\\AI\\MCP\\AgentRunner\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T21:47:04.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AgentRunner",
+              "DocumentMoniker": "C:\\Users\\ArunPaul(Polly)\\source\\repos\\AI\\MCP\\AgentRunner\\AgentRunner.csproj",
+              "RelativeDocumentMoniker": "AgentRunner.csproj",
+              "ToolTip": "C:\\Users\\ArunPaul(Polly)\\source\\repos\\AI\\MCP\\AgentRunner\\AgentRunner.csproj",
+              "RelativeToolTip": "AgentRunner.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-03T21:46:48.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Microsoft.NET.TargetFrameworkInference.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.205\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.205\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.205\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.205\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAIwKoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-09-03T21:46:36.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

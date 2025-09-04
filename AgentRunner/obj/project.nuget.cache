@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "9QMwaMebkig=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ArunPaul(Polly)\\source\\repos\\AI\\MCP\\AgentRunner\\AgentRunner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ArunPaul(Polly)\\.nuget\\packages\\system.text.json\\9.0.3\\system.text.json.9.0.3.nupkg.sha512",
+    "C:\\Users\\ArunPaul(Polly)\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.5\\microsoft.netcore.app.ref.9.0.5.nupkg.sha512",
+    "C:\\Users\\ArunPaul(Polly)\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.5\\microsoft.windowsdesktop.app.ref.9.0.5.nupkg.sha512",
+    "C:\\Users\\ArunPaul(Polly)\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.5\\microsoft.aspnetcore.app.ref.9.0.5.nupkg.sha512",
+    "C:\\Users\\ArunPaul(Polly)\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.5\\microsoft.netcore.app.host.win-x64.9.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
