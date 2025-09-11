@@ -95,15 +95,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MCPHelloWord",
+              "Title": "MCPHelloWord.csproj",
               "DocumentMoniker": "C:\\Users\\ArunPaul(Polly)\\source\\repos\\AI\\MCP\\MCPHelloWord\\MCPHelloWord.csproj",
               "RelativeDocumentMoniker": "MCPHelloWord.csproj",
               "ToolTip": "C:\\Users\\ArunPaul(Polly)\\source\\repos\\AI\\MCP\\MCPHelloWord\\MCPHelloWord.csproj",
               "RelativeToolTip": "MCPHelloWord.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-01T19:43:21.814Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-01T19:43:21.814Z"
             },
             {
               "$type": "Document",
@@ -113,7 +112,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\ArunPaul(Polly)\\source\\repos\\AI\\MCP\\MCPHelloWord\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAEMAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-01T19:41:43.512Z",
               "EditorCaption": ""
